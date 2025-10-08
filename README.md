@@ -4,10 +4,8 @@
 
 ![VibeShelf Banner](./assets/vibe2.png)
 
-A simple and elegant Spotify playlist clone built using **HTML**, **CSS**, and **JavaScript**.  
-Add your favorite songs and enjoy your personalized music experience.
-
----
+- A simple and elegant Spotify playlist clone built using **HTML**, **CSS**, and **JavaScript**.  
+- Add your favorite songs and enjoy your personalized music experience.
 
 ## Features
 - Add and manage your favorite songs  
@@ -15,14 +13,10 @@ Add your favorite songs and enjoy your personalized music experience.
 - Responsive and clean user interface  
 - Smooth CSS transitions and animations  
 
----
-
 ## Tech Stack
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (ES6)**  
-
----
 
 ## How to Run
 1. Clone this repository  
