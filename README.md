@@ -47,8 +47,7 @@ Contributions are welcome!
  Please follow the repo’s code style and include tests where appropriate.
 
 ## Author
-Harsh Guleria
-Student & Developer — building cool web projects and learning every day.
+Harsh Guleria : Student & Developer — building cool web projects and learning every day.
 
 • X: [My X Profile](https://x.com/harsz_06)          
 • Email: guleriah59@gmail.com
