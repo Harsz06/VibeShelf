@@ -24,25 +24,6 @@ Add your favorite songs and enjoy your personalized music experience.
 
 ---
 
-## 📂 Project Structure
-SPOTIFY PLAYLIST CLONE/
-│
-├── css/
-│   └── style.css           # Main stylesheet
-│
-├── images/                 # Icons, album covers, or UI images
-│
-├── js/
-│   └── script.js           # Core JavaScript logic
-│
-├── songs/                  # Audio files used in the playlist
-│
-├── .gitignore              # Git ignore configuration
-│
-└── index.html              # Main HTML file
-
----
-
 ## How to Run
 1. Clone this repository  
    ```bash
@@ -63,11 +44,11 @@ Contributions are welcome!
 - Push: git push origin feat/my-feature
 - Open a PR describing your changes
 
-### Please follow the repo’s code style and include tests where appropriate.
+ Please follow the repo’s code style and include tests where appropriate.
 
 ## Author
-
-### Harsh Guleria
+Harsh Guleria
 Student & Developer — building cool web projects and learning every day.
+
 • X: [My X Profile](https://x.com/harsz_06)          
 • Email: guleriah59@gmail.com
